@@ -1,7 +1,3 @@
-Here’s a sample README file for your Employee Management System Java Full Stack project using Spring Boot, React, and MySQL:
-
----
-
 # Employee Management System
 
 ## Overview
